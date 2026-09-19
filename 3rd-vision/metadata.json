@@ -1,0 +1,6 @@
+{
+  "name": "3rd Vision",
+  "description": "MineSafe Operations Portal - Real-time industrial mining safety, fleet tracking, collision avoidance, and multi-site monitoring platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
